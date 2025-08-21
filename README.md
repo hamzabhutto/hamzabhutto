@@ -10,19 +10,16 @@
 
 ## 🙋‍♂️ About Me  
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+</p>
+
 ```yaml
 Name: Hamza Ali Bhutto
-Role: Linux & DevOps Enthusiast
-Email: hamzabhutto1234@gmail.com
-Location: Pakistan
-Interests: [Automation, Cloud, Containers, Scripting, Open Source]
-```
-
-- 🔭 Currently working on **DevOps projects** with Docker, Kubernetes & CI/CD  
-- 🌱 Learning **Cloud Infrastructure (AWS, GCP)** and **Infrastructure as Code**  
-- 💡 Always exploring **scalable automation solutions**  
-- 🎯 Goal: To architect **resilient cloud-native systems**  
-- ⚡ Fun fact: `sudo rm -rf /` isn’t as fun as it sounds 😅  
+Role: DevOps | Linux Enthusiast | Python Developer
+Location: 🌍 Earth (somewhere between /home and /dev/null)
+Contact: hamzabhutto1234@gmail.com
+Philosophy: "Automate everything, document everything, break nothing."
 
 ---
 
