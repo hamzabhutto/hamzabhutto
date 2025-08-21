@@ -3,25 +3,30 @@
 <h3 align="center">🚀 DevOps Engineer | 🐧 Linux Enthusiast | 🐍 Python Developer | 🐳 Cloud & Containerization Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Passionate+about+Automation;learning+of+Open+Source;Always+Exploring+Cloud+Technologies;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Passionate+about+Automation;Lover+of+Open+Source;Always+Exploring+Cloud+Technologies;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-</p>
-
 ```yaml
 Name: Hamza Ali Bhutto
-Role: DevOps | Linux Enthusiast | Python Developer
-Location: 🌍 Earth (somewhere between /home and /dev/null)
-Contact: hamzabhutto1234@gmail.com
-Philosophy: "Automate everything, document everything, break nothing."
+Role: Linux & DevOps Enthusiast
+Email: hamzabhutto1234@gmail.com
+Location: Pakistan
+Interests: [Automation, Cloud, Containers, Scripting, Open Source]
+```
+
+- 🔭 Currently working on **DevOps projects** with Docker, Kubernetes & CI/CD  
+- 🌱 Learning **Cloud Infrastructure (AWS, GCP)** and **Infrastructure as Code**  
+- 💡 Always exploring **scalable automation solutions**  
+- 🎯 Goal: To architect **resilient cloud-native systems**  
+- ⚡ Fun fact: `sudo rm -rf /` isn’t as fun as it sounds 😅  
 
 ---
+
+  
 
 ## 🛠️ Tech Stack  
 
@@ -51,6 +56,7 @@ Philosophy: "Automate everything, document everything, break nothing."
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 </a>
+
 
 <!-- GCP -->
 <a href="https://cloud.google.com/" target="_blank">
