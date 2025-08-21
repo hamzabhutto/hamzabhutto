@@ -3,7 +3,7 @@
 <h3 align="center">🚀 DevOps Engineer | 🐧 Linux Enthusiast | 🐍 Python Developer | 🐳 Cloud & Containerization Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Passionate+about+Automation;Lover+of+Open+Source;Always+Exploring+Cloud+Technologies;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Passionate+about+Automation;learning+of+Open+Source;Always+Exploring+Cloud+Technologies;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,8 +25,6 @@ Interests: [Automation, Cloud, Containers, Scripting, Open Source]
 - ⚡ Fun fact: `sudo rm -rf /` isn’t as fun as it sounds 😅  
 
 ---
-
-## 🛠️ Tech Stack  
 
 ## 🛠️ Tech Stack  
 
